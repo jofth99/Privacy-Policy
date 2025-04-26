@@ -4,7 +4,11 @@ This extension, *Extract YouTube URL, was developed with a focus on simplicity a
 
 # Data Collection
 
-The extension **does not collect, store, or share** any personal data directly.
+The extension Do not transfer user data to third parties outside of approved use cases
+
+I do not use or transfer user data for purposes unrelated to the sole purpose of my item.
+
+I do not use or transfer user data to determine creditworthiness or for lending purposes.
 
 # Permissions Used
 
